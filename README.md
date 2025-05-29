@@ -17,3 +17,7 @@ npm run dev
 ```js
 npm run build
 ```
+5. Run the Peview
+```js
+npm run preview
+```
